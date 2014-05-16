@@ -1,0 +1,9 @@
+
+
+Fish Saving game
+- Player has to save schools of fish
+- fish follow until near a coral
+- Player is scored by the amount of fish saved
+- enemy fish from sides of the screen try to gobble fish up
+- hooks fall from the top and can catch fish or the player
+- safe reeds
